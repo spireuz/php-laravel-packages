@@ -8,12 +8,27 @@ Personal collection of packages to use in projects
 
 [Laravel API to Postman](https://github.com/AndreasElia/laravel-api-to-postman)
 
+[Swagger](https://github.com/swagger-api/swagger-ui)
+
 ## Static Analysis
 [Larastan](https://github.com/nunomaduro/larastan)
 
 [Laravel Microscope](https://github.com/imanghafoori1/laravel-microscope)
 
 [Security Checker](https://github.com/enlightn/laravel-security-checker)
+
+## Debugging
+[Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
+
+[Laravel Telescope](https://github.com/laravel/telescope)
+
+[Telescope Toolbar](https://github.com/fruitcake/laravel-telescope-toolbar)
+
+[Dumper](https://github.com/glhd/laravel-dumper)
+
+[Show-SQL](https://github.com/dietercoopman/laravel-showsql)
+
+[Laravel Blanket](https://github.com/AhmadWaleed/laravel-blanket)
 
 ## Web Scraper
 [Goutte](https://github.com/FriendsOfPHP/Goutte)
@@ -46,16 +61,19 @@ Personal collection of packages to use in projects
 
 [Mathematical Statistics](https://github.com/Hi-Folks/statistics)
 
-[Dumper](https://github.com/glhd/laravel-dumper)
-
 [Migrator](https://github.com/rezaamini-ir/migrator)
-
-[Show-SQL](https://github.com/dietercoopman/laravel-showsql)
-
-[Laravel Blanket](https://github.com/AhmadWaleed/laravel-blanket)
-
-[Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
 
 [Laravel Model Stats](https://github.com/JhumanJ/laravel-model-stats)
 
 [Short URL](https://github.com/ash-jc-allen/short-url)
+
+[Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
+
+[Artisan GUI](https://github.com/inFureal/artisan-gui)
+
+[Chatify](https://github.com/munafio/chatify)
+
+[Terminal](https://github.com/TitasGailius/terminal)
+
+## Queues
+[Venture - workflow manager](https://github.com/ksassnowski/venture)
