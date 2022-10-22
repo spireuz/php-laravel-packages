@@ -10,12 +10,22 @@ Personal collection of packages to use in projects
 
 [Swagger](https://github.com/swagger-api/swagger-ui)
 
-## Static Analysis
+## Static Analysis && Security Monitoring
 [Larastan](https://github.com/nunomaduro/larastan)
 
 [Laravel Microscope](https://github.com/imanghafoori1/laravel-microscope)
 
 [Security Checker](https://github.com/enlightn/laravel-security-checker)
+
+[PHPInsights](https://github.com/nunomaduro/phpinsights)
+
+[Patrol](https://github.com/nunomaduro/patrol)
+
+[Laravel Self Diagnosis](https://github.com/beyondcode/laravel-self-diagnosis)
+
+[Stats](https://github.com/stefanzweifel/laravel-stats)
+
+[Security Advisories](https://github.com/Roave/SecurityAdvisories)
 
 ## Debugging
 [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
@@ -30,6 +40,8 @@ Personal collection of packages to use in projects
 
 [Laravel Blanket](https://github.com/AhmadWaleed/laravel-blanket)
 
+[Laravel Dump Server](https://github.com/beyondcode/laravel-dump-server)
+
 ## Web Scraper
 [Goutte](https://github.com/FriendsOfPHP/Goutte)
 
@@ -38,6 +50,7 @@ Personal collection of packages to use in projects
 [Roach-PHP](https://github.com/roach-php/laravel)
 
 ## Testing
+[Laravel Dusk Dashboard](https://github.com/beyondcode/dusk-dashboard)
 
 ## Integrations && HTTP Clients
 [Saloon](https://github.com/sammyjo20/saloon)
@@ -53,6 +66,12 @@ Personal collection of packages to use in projects
 [Google NLP API](https://github.com/JoggApp/laravel-natural-language)
 
 [Soap Client](https://github.com/ricorocks-Digital-Agency/soap)
+
+[Websockets](https://github.com/beyondcode/laravel-websockets)
+
+[Telegram-Bot-SDK](https://github.com/irazasyed/telegram-bot-sdk)
+
+[Socialite Providers](https://github.com/SocialiteProviders)
 
 ## Utilities
 [Log-viewer](https://github.com/opcodesio/log-viewer)
@@ -74,6 +93,14 @@ Personal collection of packages to use in projects
 [Chatify](https://github.com/munafio/chatify)
 
 [Terminal](https://github.com/TitasGailius/terminal)
+
+[CORS](https://github.com/fruitcake/laravel-cors)
+
+[Excel](https://github.com/SpartnerNL/Laravel-Excel)
+
+[Laravel OPcache](https://github.com/appstract/laravel-opcache)
+
+[Intervention Image](https://github.com/Intervention/image)
 
 ## Queues
 [Venture - workflow manager](https://github.com/ksassnowski/venture)
