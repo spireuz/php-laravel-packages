@@ -11,6 +11,12 @@ Personal collection of packages to use in projects
 [Swagger](https://github.com/swagger-api/swagger-ui)
 
 ## Static Analysis && Security Monitoring
+[Rector](https://github.com/rectorphp/rector)
+
+[Easy coding standarts](https://github.com/easy-coding-standard/easy-coding-standard)
+
+[Laravel Pint](https://github.com/laravel/pint)
+
 [Larastan](https://github.com/nunomaduro/larastan)
 
 [Laravel Microscope](https://github.com/imanghafoori1/laravel-microscope)
@@ -104,3 +110,8 @@ Personal collection of packages to use in projects
 
 ## Queues
 [Venture - workflow manager](https://github.com/ksassnowski/venture)
+
+## Testing
+[Pest](https://pestphp.com)
+
+[PHPUnit](https://phpunit.de)
