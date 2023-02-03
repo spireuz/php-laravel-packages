@@ -33,6 +33,8 @@ Personal collection of packages to use in projects
 
 [Security Advisories](https://github.com/Roave/SecurityAdvisories)
 
+[Laravel Enlightent](https://www.laravel-enlightn.com)
+
 ## Debugging
 [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
 
